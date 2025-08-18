@@ -28,11 +28,6 @@ It provides insights into **yearly trends** and **recession period statistics** 
 
 ---
 
-## 🚀 Deployment
-This dashboard is hosted on **Render**.  
-👉 [Live Demo](https://your-app-name.onrender.com)  
-
----
 
 ## 📂 Project Structure
 ```plaintext
