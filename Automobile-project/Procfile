@@ -1,0 +1,1 @@
+web: pip install dash pandas plotly gunicorn && gunicorn app:app.server
